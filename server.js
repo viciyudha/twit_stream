@@ -34,10 +34,10 @@ con.connect(function(err){
 // });
 
 var T = new Twit({
-  consumer_key:         'NORoWYPU1ggeLKMzs20yQWDdb',
-  consumer_secret:      'tUfJZsO354bctK8sylViH8PC0LKFeFIRwGyLSxUHM92W7rFwwD',
-  access_token:         '117660712-R8qe5KCQU1RMPud4eNbUqlaGYaQCw3fez10BqUYj',
-  access_token_secret:  'FcAkS4w71Wa5vPuhhK1RREZ15vsyl2TvrZefuDIaDKcVc',
+  consumer_key:         '',
+  consumer_secret:      '',
+  access_token:         '',
+  access_token_secret:  '',
   //app_only_auth: true
 });
 
